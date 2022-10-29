@@ -1,0 +1,25 @@
+---
+layout: post
+title: 'Init Post'
+date: 2022-10-24 22:32:58 +0700
+categories: Escape from hell
+---
+
+<!-- TODO Fix Typos -->
+
+#Yo man, we need to escape from this place...
+
+All preparatins has been done... Targets accured.
+
+Main directions:
+
+- finish Ycloud cource
+- compleete angular book, then finish experimental sites
+- force TGB programm(get in touch with all API)
+- Figure out with programming patterns. Probably gang of four book is inevitable
+- Nest.js backend
+- Figure out how to fix heth issues(hm... If medpacks like we can see in videogames exist in real world - let me know)
+
+- and i should continue my kind of `Dev Ops` education...
+
+...To low on time and resources, but i must find a way out
